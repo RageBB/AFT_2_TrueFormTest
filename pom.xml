@@ -20,7 +20,7 @@
 
         <!-- Dependencies version -->
         <selenium-java>3.141.59</selenium-java>
-        <junit>4.13</junit>
+        <junit>4.13.1</junit>
 
     </properties>
 
